@@ -3,8 +3,8 @@ title: obsidian markdown语法扩展
 slug: 2023-09-02-08
 description: obsidian对markdown语法的扩展，比如 Callouts
 author: six
-created: 2023-09-02T00:00:00.000Z
-updated: 2023-09-02T00:00:00.000Z
+created: 2023-09-02
+updated: 2023-09-02
 cover: https://picsum.photos/720/400
 tags:
   - obsidian

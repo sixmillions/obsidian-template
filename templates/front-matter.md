@@ -1,6 +1,6 @@
 ---
 title: 笔记标题
-slug: {{date}}-{{time:HH}}
+slug: {{title}}
 description: 笔记描述
 author: six
 created: {{date}}
@@ -10,7 +10,7 @@ tags:
  - obsidian
  - dev
 categories:
- - js
+ - obsidian
  - vue
 dg-publish: false
 ---

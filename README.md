@@ -24,6 +24,6 @@ git push -u origin main
 当前项目代理配置
 
 ```bash
-git config http.proxy http://10.203.204.49:8080
-git config https.proxy http://10.203.204.49:8080
+git config http.proxy http://10.203.49.204:8080
+git config https.proxy http://10.203.49.204:8080
 ```
