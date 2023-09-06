@@ -1,0 +1,8 @@
+{
+  "apiEndpoint": "https://cfw.6bw.fun/s3/obj/img",
+  "uploadHeader": "{\n  \"Authorization\": \"Bearer yourToken\"\n}",
+  "uploadBody": "{\n  \"file\": \"$FILE\"\n}",
+  "imageUrlPath": "url",
+  "maxWidth": 4096,
+  "enableResize": false
+}
