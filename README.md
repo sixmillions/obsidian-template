@@ -17,6 +17,7 @@ git add .
 git commit -m 'Init'
 
 git branch -M main
+# git remote rm origin
 git remote add origin https://github.com/sixmillions/obsidian-template.git
 git push -u origin main
 ```
