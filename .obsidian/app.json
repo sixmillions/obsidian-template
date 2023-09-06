@@ -1,5 +1,6 @@
 {
   "attachmentFolderPath": "attachments",
   "newFileLocation": "folder",
-  "newFileFolderPath": "tmp"
+  "newFileFolderPath": "tmp",
+  "trashOption": "local"
 }
