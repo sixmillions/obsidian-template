@@ -1,6 +1,6 @@
 ---
-title: {{date:YYYY-MM-DD}}-当日工作内容
-slug: {{date:YYYY-MM-DD}}-diary-report
+title: "{{date:YYYY-MM-DD}}-工作内容"
+slug: "{{date:YYYY-MM-DD}}-diary-report"
 author: six
 dg-publish: false
 ---

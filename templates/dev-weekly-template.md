@@ -1,6 +1,6 @@
 ---
-title: {{date:GGGG-WW}}-周报
-slug: {{date:GGGG-WW}}-week-report
+title: "{{date:GGGG-WW}}-周报"
+slug: "{{date:GGGG-WW}}-week-report"
 author: six
 dg-publish: false
 ---
